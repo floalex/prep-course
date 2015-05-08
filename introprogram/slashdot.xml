@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, DHI Group Inc. All Rights Reserved. Slashdot is a DHI service</dc:rights>
+<dc:date>2015-05-07T23:57:13+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/07/2229210/faa-big-tech-challenges-for-massive-washington-dc-warbirds-flyover?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/07/2219201/superfish-injects-ads-in-1-in-25-google-page-views?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/05/07/2211220/keurig-stock-drops-says-it-was-wrong-about-drm-coffee-pods?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/07/2131226/creating-the-open-drone-ecosystem-takes-room-to-experiment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/05/07/2046243/no-justice-for-victims-of-identity-theft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/07/1955256/electron-microscopes-close-to-imaging-individual-atoms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://mobile.slashdot.org/story/15/05/07/1918230/centimeter-resolution-gps-for-smartphones-vr-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/05/07/1833227/faa-program-tests-drones-flying-beyond-pilots-line-of-sight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/05/07/1746249/defense-distributed-sues-state-department-over-3-d-gun-censorship?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/07/175225/tesla-to-unveil-its-35000-model-3-in-march-2016?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/07/1626251/nfl-releases-deflategate-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://developers.slashdot.org/story/15/05/07/1337258/why-companies-should-hire-older-developers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/05/07/1437216/us-appeals-court-says-nsa-phone-surveillance-is-not-authorized-by-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://games.slashdot.org/story/15/05/07/1326202/counter-strike-finally-gets-the-league-it-deserves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://politics.slashdot.org/story/15/05/07/1241247/export-ban-drives-cuba-to-non-us-analytics-software-to-boost-tourism?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://tech.slashdot.org/story/15/05/07/2229210/faa-big-tech-challenges-for-massive-washington-dc-warbirds-flyover?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>FAA: Big Tech Challenges For Massive Washington, DC Warbirds Flyover</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/caAAlNm54ZA/faa-big-tech-challenges-for-massive-washington-dc-warbirds-flyover</link>
+<description>coondoggie writes: It will be one of the largest gatherings of flying WWII aircraft in history as 56 famous vintage warbirds will fly through restricted airspace over the National Mall Friday in remembrance of the 70th anniversary of VE-Day or Victory in Europe Day. The huge flyover, dubbed the "The Arsenal of Democracy," of so many different types of aircraft &amp;ndash; from seaplanes to fighters and the only flying B-29 Superfortress &amp;ndash; was no easy undertaking. The first plane should be visible along the National Mall around 12:10 p.m. With roughly 90 seconds between formations, the Flyover will end by 1 p.m. Reagan National Airport will be closed to commercial traffic from 12 noon to 1 p.m. to accommodate the flights. The Flyover will be streamed live here.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=FAA%3A+Big+Tech+Challenges+For+Massive+Washington%2C+DC+Warbirds+Flyover%3A+http%3A%2F%2Fbit.ly%2F1ITjsW4"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F07%2F2229210%2Ffaa-big-tech-challenges-for-massive-washington-dc-warbirds-flyover%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/07/2229210/faa-big-tech-challenges-for-massive-washington-dc-warbirds-flyover?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/07/2229210/faa-big-tech-challenges-for-massive-washington-dc-warbirds-flyover?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7383993&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/caAAlNm54ZA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-05-07T23:48:00+00:00</dc:date>
+<dc:subject>military</dc:subject>
+<slash:department>blast-from-the-past</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>1</slash:comments>
+<slash:hit_parade>1,1,0,0,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/07/2229210/faa-big-tech-challenges-for-massive-washington-dc-warbirds-flyover?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/07/2219201/superfish-injects-ads-in-1-in-25-google-page-views?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title> Superfish Injects Ads In 1 In 25 Google Page Views</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/bWA5U3T3fww/superfish-injects-ads-in-1-in-25-google-page-views</link>
+<description>An anonymous reader writes: A new report from Google has found that more than 5% of unique daily IP addresses accessing Google &amp;mdash; tens of millions &amp;mdash; are interrupted by ad-injection techniques, and that Superfish, responsible for a major controversy with Lenovo in February is the leading adware behind what is clearly now an industry. Amongst the report's recommendations to address the problem is the suggestion that browser makers "harden their environments against side-loading extensions or modifying the browser environment without user consent." Some of the most popular extensions for Chrome and Firefox, including ad-blockers, depend on this functionality.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=+Superfish+Injects+Ads+In+1+In+25+Google+Page+Views%3A+http%3A%2F%2Fbit.ly%2F1ElyjlW"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F07%2F2219201%2Fsuperfish-injects-ads-in-1-in-25-google-page-views%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/07/2219201/superfish-injects-ads-in-1-in-25-google-page-views?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/07/2219201/superfish-injects-ads-in-1-in-25-google-page-views?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7383983&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/bWA5U3T3fww" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-05-07T23:04:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>protect-ya-neck</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>22</slash:comments>
+<slash:hit_parade>22,21,14,12,3,2,0</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/07/2219201/superfish-injects-ads-in-1-in-25-google-page-views?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/05/07/2211220/keurig-stock-drops-says-it-was-wrong-about-drm-coffee-pods?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Keurig Stock Drops, Says It Was Wrong About DRM Coffee Pods</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Er2icZMqEtk/keurig-stock-drops-says-it-was-wrong-about-drm-coffee-pods</link>
+<description>An anonymous reader writes: Green Mountain (Keurig) stock dropped by 10% this morning after a brutal earnings report. The reason? CNN Money reports that DRM has weakened sales of their Keurig 2.0. CEO Brian Kelley admits, "Quite honestly, we were wrong." Last year Green Mountain decided to make their new coffee machines work with licensed pods only. The company says they now plan to license more outside brands, and bring back &amp;ldquo;My K-Cup&amp;rdquo; reusable filters.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Keurig+Stock+Drops%2C+Says+It+Was+Wrong+About+DRM+Coffee+Pods%3A+http%3A%2F%2Fbit.ly%2F1F8DMTM"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F05%2F07%2F2211220%2Fkeurig-stock-drops-says-it-was-wrong-about-drm-coffee-pods%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/05/07/2211220/keurig-stock-drops-says-it-was-wrong-about-drm-coffee-pods?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/05/07/2211220/keurig-stock-drops-says-it-was-wrong-about-drm-coffee-pods?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7383959&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Er2icZMqEtk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-05-07T22:15:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>worst-laid-plans</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>89</slash:comments>
+<slash:hit_parade>89,87,64,60,23,9,5</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/05/07/2211220/keurig-stock-drops-says-it-was-wrong-about-drm-coffee-pods?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/07/2131226/creating-the-open-drone-ecosystem-takes-room-to-experiment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Creating the Open Drone Ecosystem Takes Room To Experiment</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/voCUFGAlevQ/creating-the-open-drone-ecosystem-takes-room-to-experiment</link>
+<description>An anonymous reader writes: Over on Forbes, Jono Bacon writes about the emergence of an open drone ecosystem spearheaded by the recently announced 3D Robotics SOLO which is largely Open Source and has an Open Source SDK. Bacon's argument is that innovation comes from where we least expect it, so open access to the code and tools is critical in helping the burgeoning drone ecosystem to thrive, solve problems, and grow. See also our videos interviews with open-source drone programmers / users John Hawley, Clay McLure, and Mark F. Brown and Joel Rozenweig at the recent Embedded Linux Conference, where Bacon was also a speaker.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Creating+the+Open+Drone+Ecosystem+Takes+Room+To+Experiment%3A+http%3A%2F%2Fbit.ly%2F1JSIiXQ"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F07%2F2131226%2Fcreating-the-open-drone-ecosystem-takes-room-to-experiment%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/07/2131226/creating-the-open-drone-ecosystem-takes-room-to-experiment?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/07/2131226/creating-the-open-drone-ecosystem-takes-room-to-experiment?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7383885&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/voCUFGAlevQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-07T21:32:00+00:00</dc:date>
+<dc:subject>opensource</dc:subject>
+<slash:department>keeping-things-visible</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>14</slash:comments>
+<slash:hit_parade>14,13,8,5,1,0,0</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/07/2131226/creating-the-open-drone-ecosystem-takes-room-to-experiment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/05/07/2046243/no-justice-for-victims-of-identity-theft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>No Justice For Victims of Identity Theft</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/rPVDVpHAqx8/no-justice-for-victims-of-identity-theft</link>
+<description>chicksdaddy writes: The Christian Science Monitor's Passcode features a harrowing account of one individual's experience of identity theft. CSM reporter Sara Sorcher recounts the story of "Jonathan Franklin" (not his real name) a New Jersey business executive who woke up to find thieves had stolen his identity and racked up $30,000 in a shopping spree at luxury stores including Versace and the Apple Store. The thieves even went so far as to use personal info stolen from Franklin to have the phone company redirect calls to his home number, which meant that calls from the credit card company about the unusual spending went unanswered. Despite the heinousness of the crime and the financial cost, Sorcher notes that credit card companies and merchants both look on this kind of theft as a "victimless crime" and are more interested in getting reimbursed for their losses than trying to pursue the thieves. Police departments, also, are unable to investigate these crimes, lacking both the technical expertise and resources to do so. Franklin notes that he wasn't even required to file a police report to get reimbursed for the crime: "'As long as their loss is covered they move on to [handling] tomorrow's fraud,' Franklin observes. And that makes it harder for victims like Franklin to move on, 'In some way, I'm seeking some sense of justice,' Franklin said. 'But it's likely not going to happen.'"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=No+Justice+For+Victims+of+Identity+Theft%3A+http%3A%2F%2Fbit.ly%2F1H2gTix"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F05%2F07%2F2046243%2Fno-justice-for-victims-of-identity-theft%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/05/07/2046243/no-justice-for-victims-of-identity-theft?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/05/07/2046243/no-justice-for-victims-of-identity-theft?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7383809&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/rPVDVpHAqx8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-07T20:46:00+00:00</dc:date>
+<dc:subject>crime</dc:subject>
+<slash:department>revenge-would-be-the-best-revenge</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>105</slash:comments>
+<slash:hit_parade>105,101,77,70,20,9,3</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/05/07/2046243/no-justice-for-victims-of-identity-theft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/07/1955256/electron-microscopes-close-to-imaging-individual-atoms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Electron Microscopes Close To Imaging Individual Atoms</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/UyIZm_WZVmA/electron-microscopes-close-to-imaging-individual-atoms</link>
+<description>An anonymous reader writes with this excerpt from Science: Today's digital photos are far more vivid than just a few years ago, thanks to a steady stream of advances in optics, detectors, and software. Similar advances have also improved the ability of machines called cryo-electron microscopes (cryo-EMs) to see the Lilliputian world of atoms and molecules. Now, researchers report that they've created the highest ever resolution cryo-EM image, revealing a druglike molecule bound to its protein target at near atomic resolution. The resolution is so sharp that it rivals images produced by x-ray crystallography, long the gold standard for mapping the atomic contours of proteins. This newfound success is likely to dramatically help drugmakers design novel medicines for a wide variety of conditions.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Electron+Microscopes+Close+To+Imaging+Individual+Atoms%3A+http%3A%2F%2Fbit.ly%2F1P4iQC6"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F07%2F1955256%2Felectron-microscopes-close-to-imaging-individual-atoms%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/07/1955256/electron-microscopes-close-to-imaging-individual-atoms?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/07/1955256/electron-microscopes-close-to-imaging-individual-atoms?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7383709&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/UyIZm_WZVmA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-07T19:55:00+00:00</dc:date>
+<dc:subject>biotech</dc:subject>
+<slash:department>it's-down-there-somewhere-let-me-take-another-look</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>44</slash:comments>
+<slash:hit_parade>44,38,20,15,4,2,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/07/1955256/electron-microscopes-close-to-imaging-individual-atoms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://mobile.slashdot.org/story/15/05/07/1918230/centimeter-resolution-gps-for-smartphones-vr-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Centimeter-Resolution GPS For Smartphones, VR, Drones</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BSTgmEC6oNI/centimeter-resolution-gps-for-smartphones-vr-drones</link>
+<description>agent elevator writes: UT Austin engineers have come up with a software fix that corrects for the errors GPS has when using the tiny antennas on smartphones. They demoed it using a VR setup and got 2-cm accuracy. For now it runs on a separate processor from the smartphone, but they say they'll fix that. The demo appears to have been done on a rooftop. VR. Outside. On a roof. Doesn't seem like a good idea, does it?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Centimeter-Resolution+GPS+For+Smartphones%2C+VR%2C+Drones%3A+http%3A%2F%2Fbit.ly%2F1Ju9SqS"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmobile.slashdot.org%2Fstory%2F15%2F05%2F07%2F1918230%2Fcentimeter-resolution-gps-for-smartphones-vr-drones%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://mobile.slashdot.org/story/15/05/07/1918230/centimeter-resolution-gps-for-smartphones-vr-drones?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://mobile.slashdot.org/story/15/05/07/1918230/centimeter-resolution-gps-for-smartphones-vr-drones?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7383647&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/BSTgmEC6oNI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-07T19:01:00+00:00</dc:date>
+<dc:subject>build</dc:subject>
+<slash:department>don't-fall-off-the-edge</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>36</slash:comments>
+<slash:hit_parade>36,35,26,21,9,4,4</slash:hit_parade>
+<feedburner:origLink>http://mobile.slashdot.org/story/15/05/07/1918230/centimeter-resolution-gps-for-smartphones-vr-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/05/07/1833227/faa-program-tests-drones-flying-beyond-pilots-line-of-sight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>FAA Program Tests Drones Flying Beyond Pilot's Line-of-Sight</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/yQ_fKBFC-Xg/faa-program-tests-drones-flying-beyond-pilots-line-of-sight</link>
+<description>itwbennett writes: FAA administrator Michael P. Huerta announced Wednesday a new Pathfinder Program under which the agency has partnered with three U.S. companies to explore three key types of unmanned operations, possibly paving the way for operations such as the aerial delivery of packages as proposed by companies like Amazon.com. One of the companies the FAA has partnered with is drone manufacturer PrecisionHawk, which will be surveying crops in rural areas using unmanned aircraft flying outside of the pilot's direct vision.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=FAA+Program+Tests+Drones+Flying+Beyond+Pilot's+Line-of-Sight%3A+http%3A%2F%2Fbit.ly%2F1Rh8Xzv"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F05%2F07%2F1833227%2Ffaa-program-tests-drones-flying-beyond-pilots-line-of-sight%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/05/07/1833227/faa-program-tests-drones-flying-beyond-pilots-line-of-sight?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/05/07/1833227/faa-program-tests-drones-flying-beyond-pilots-line-of-sight?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7383543&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/yQ_fKBFC-Xg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-07T18:33:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>direct-supervision</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>27</slash:comments>
+<slash:hit_parade>27,26,19,18,5,2,2</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/05/07/1833227/faa-program-tests-drones-flying-beyond-pilots-line-of-sight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/05/07/1746249/defense-distributed-sues-state-department-over-3-d-gun-censorship?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Defense Distributed Sues State Department Over 3-D Gun Censorship</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/j2wS7KA0U3M/defense-distributed-sues-state-department-over-3-d-gun-censorship</link>
+<description>SonicSpike writes with word that Cody Wilson, whose projects to create (and disseminate the plans for) printable guns have fascinated some and horrified others, is not going to quietly comply with the U.S. State Deparment's demand that he remove such plans from the internet. Wilson, says Wired, is
+
+ picking a fight that could pit proponents of gun control and defenders of free speech against each other in an age when the line between a lethal weapon and a collection of bits is blurrier than ever before. Wilson's gun manufacturing advocacy group Defense Distributed, along with the gun rights group the Second Amendment Foundation, on Wednesday filed a lawsuit against the State Department and several of its officials, including Secretary of State John Kerry. In their complaint, they claim that a State Department agency called the Directorate of Defense Trade Controls (DDTC) violated their first amendment right to free speech by telling Defense Distributed that it couldn't publish a 3-D printable file for its one-shot plastic pistol known as the Liberator, along with a collection of other printable gun parts, on its website.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Defense+Distributed+Sues+State+Department+Over+3-D+Gun+Censorship%3A+http%3A%2F%2Fbit.ly%2F1ESYp3h"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F05%2F07%2F1746249%2Fdefense-distributed-sues-state-department-over-3-d-gun-censorship%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/05/07/1746249/defense-distributed-sues-state-department-over-3-d-gun-censorship?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/05/07/1746249/defense-distributed-sues-state-department-over-3-d-gun-censorship?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7383403&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/j2wS7KA0U3M" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-07T17:45:00+00:00</dc:date>
+<dc:subject>censorship</dc:subject>
+<slash:department>more-of-those-darn-illegal-shapes</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>231</slash:comments>
+<slash:hit_parade>231,220,142,120,44,22,10</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/05/07/1746249/defense-distributed-sues-state-department-over-3-d-gun-censorship?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/07/175225/tesla-to-unveil-its-35000-model-3-in-march-2016?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Tesla To Unveil Its $35,000 Model 3 In March 2016</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/m6pboKm4LZw/tesla-to-unveil-its-35000-model-3-in-march-2016</link>
+<description>An anonymous reader with the news, as reported by Ars Technica, BGR, the WSJ, and more, that Tesla, in the course of the company's most recent earnings call, has announced plans to show off its much-anticipated Model 3 in March, 2016, and somewhat more tentative plans for actual availability; "late 2017" might be optimistic, but it's a start. You can listen to the whole earnings call here. Other bits gleaned from this call include a "late summer" planned delivery for the Model X SUV, and the fact that the PowerWall household battery is sold out until the middle of next year.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Tesla+To+Unveil+Its+%2435%2C000+Model+3+In+March+2016%3A+http%3A%2F%2Fbit.ly%2F1cry3fe"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F07%2F175225%2Ftesla-to-unveil-its-35000-model-3-in-march-2016%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/07/175225/tesla-to-unveil-its-35000-model-3-in-march-2016?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/07/175225/tesla-to-unveil-its-35000-model-3-in-march-2016?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7383261&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/m6pboKm4LZw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-07T17:04:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>like-the-cadillac-mistress</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>220</slash:comments>
+<slash:hit_parade>220,215,163,147,27,9,7</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/07/175225/tesla-to-unveil-its-35000-model-3-in-march-2016?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/07/1626251/nfl-releases-deflategate-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NFL Releases Deflategate Report</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/hvTzns74_vo/nfl-releases-deflategate-report</link>
+<description>_xeno_ writes: You may remember back in February that Slashdot covered the NFL asking Columbia University for help investigating Deflategate, a scandal where the New England Patriots were caught deflating their footballs in order to make them easier to catch. The Patriots claimed this was simply a result of the weather, while their opponents disagreed. Well, it's been months, but we finally have our answer: the balls were, in fact, knowingly deflated by the Patriots (to no one's surprise). And while science can explain a little deflation, it cannot explain the amount of deflation seen during the game. Which isn't stopping Boston fans from attacking the science. The report stops short of certainty, though, concluding rather that deliberate underinflation was "more likely than not." Not everyone agrees that a conspiracy is necessary to account for the measured pressure readings.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NFL+Releases+Deflategate+Report%3A+http%3A%2F%2Fbit.ly%2F1AHYPFG"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F07%2F1626251%2Fnfl-releases-deflategate-report%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/07/1626251/nfl-releases-deflategate-report?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/07/1626251/nfl-releases-deflategate-report?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7383133&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/hvTzns74_vo" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-07T16:22:00+00:00</dc:date>
+<dc:subject>math</dc:subject>
+<slash:department>now-watch-your-language</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>183</slash:comments>
+<slash:hit_parade>183,177,121,101,42,25,15</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/07/1626251/nfl-releases-deflategate-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://developers.slashdot.org/story/15/05/07/1337258/why-companies-should-hire-older-developers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Why Companies Should Hire Older Developers</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zphrp58R1Q4/why-companies-should-hire-older-developers</link>
+<description>Nerval's Lobster writes: Despite legislation making it overtly illegal, ageism persists in the IT industry. If you're 40 or older, you've probably seen cases where younger developers were picked over older ones. At times we're told there's a staffing crisis, that companies need to import more developers via H-1B, but the truth is that outsourcing and downsizing eliminated a subset of viable developers from the market. Those developers, in turn, had to figure out if they wanted to land another job, freelance, or leave the technology industry entirely. But older developers still have a lot to offer, developer David Bolton writes in a new column: They have decades of experience (and specialist knowledge), they have a healthy disregard for office politics (but can still manage, when necessary), they're available, and they're (generally) stable.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Why+Companies+Should+Hire+Older+Developers%3A+http%3A%2F%2Fbit.ly%2F1JS5xB5"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F15%2F05%2F07%2F1337258%2Fwhy-companies-should-hire-older-developers%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://developers.slashdot.org/story/15/05/07/1337258/why-companies-should-hire-older-developers?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://developers.slashdot.org/story/15/05/07/1337258/why-companies-should-hire-older-developers?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7382343&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/zphrp58R1Q4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-07T15:40:00+00:00</dc:date>
+<dc:subject>programming</dc:subject>
+<slash:department>bottom-line-is-the-bottom-line</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>328</slash:comments>
+<slash:hit_parade>328,321,220,183,52,30,20</slash:hit_parade>
+<feedburner:origLink>http://developers.slashdot.org/story/15/05/07/1337258/why-companies-should-hire-older-developers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/05/07/1437216/us-appeals-court-says-nsa-phone-surveillance-is-not-authorized-by-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title> US Appeals Court Says NSA Phone Surveillance Is Not Authorized By Congress</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/vQUUBWnpYYI/us-appeals-court-says-nsa-phone-surveillance-is-not-authorized-by-congress</link>
+<description>New submitter IronOxen writes: A panel of three federal judges for the second circuit overturned an earlier ruling. The court has ruled that the bulk collection of telephone metadata is unlawful, in a landmark decision that clears the way for a full legal challenge against the National Security Agency: "'We hold that the text of section 215 cannot bear the weight the government asks us to assign to it, and that it does not authorize the telephone metadata program,' concluded their judgement." That's not exactly saying that such bulk collection is unconscionable or per se unconstitutional, but it's a major step toward respecting privacy as a default.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=+US+Appeals+Court+Says+NSA+Phone+Surveillance+Is+Not+Authorized+By+Congress%3A+http%3A%2F%2Fbit.ly%2F1PrlZXz"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F05%2F07%2F1437216%2Fus-appeals-court-says-nsa-phone-surveillance-is-not-authorized-by-congress%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/05/07/1437216/us-appeals-court-says-nsa-phone-surveillance-is-not-authorized-by-congress?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/05/07/1437216/us-appeals-court-says-nsa-phone-surveillance-is-not-authorized-by-congress?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7382607&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/vQUUBWnpYYI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-07T14:59:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>slightly-less-whelming-than-I'd-like</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>196</slash:comments>
+<slash:hit_parade>196,193,129,108,38,26,16</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/05/07/1437216/us-appeals-court-says-nsa-phone-surveillance-is-not-authorized-by-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://games.slashdot.org/story/15/05/07/1326202/counter-strike-finally-gets-the-league-it-deserves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Counter-Strike Finally Gets the League It Deserves</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/wRuSobVsoyI/counter-strike-finally-gets-the-league-it-deserves</link>
+<description>An anonymous reader writes: Counter-Strike is the oldest eSport in the world today, with its roots stretching back to the dawn of the millennium. But unlike rival games like League of Legends or StarCraft 2, its pro scene has been mostly reliant on sporadic tournaments instead of a regularised league. That's changed with the announcement of the ESL ESEA Pro League, the first Counter-Strike Global Offensive league with a seven-figure prize pot. As one writer points out, this is a huge boost for the pro scene even without developer Valve's involvement: everything from paid travel expenses to regular viewing schedules will help the scene, and let the top players play even better than before: "it has taken over 15 years to happen, but now Counter-Strike has a tournament that can potentially elevate it to become one of the biggest eSports in the world."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Counter-Strike+Finally+Gets+the+League+It+Deserves%3A+http%3A%2F%2Fbit.ly%2F1P3t8SV"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F15%2F05%2F07%2F1326202%2Fcounter-strike-finally-gets-the-league-it-deserves%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://games.slashdot.org/story/15/05/07/1326202/counter-strike-finally-gets-the-league-it-deserves?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/15/05/07/1326202/counter-strike-finally-gets-the-league-it-deserves?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7382219&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/wRuSobVsoyI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-07T14:18:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>your-boy-zoolander's-on-the-move</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>92</slash:comments>
+<slash:hit_parade>92,90,45,39,3,3,1</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/15/05/07/1326202/counter-strike-finally-gets-the-league-it-deserves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://politics.slashdot.org/story/15/05/07/1241247/export-ban-drives-cuba-to-non-us-analytics-software-to-boost-tourism?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Export Ban Drives Cuba To Non-US Analytics Software To Boost Tourism</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ju9Wh8cVi70/export-ban-drives-cuba-to-non-us-analytics-software-to-boost-tourism</link>
+<description>dkatana writes with some crucial lines from an article at InformationWeek: Currently Cuba receives around 2.8 million visitors every year, half of them from Canada. Mintur, the Cuban Tourist Ministry, estimates that if Americans were free to travel to Cuba today, the number of visitors would increase by two million the first year. Last year the Cuban government was interested in getting its hands on analytics software to process the data generated by visitors on social networks. ... Because of the existing ban on American companies supplying technology to Cuba, Havana had to look somewhere else and found SocialVane, a small Spanish company on the island of Menorca, which has been working with the local tourist sector to analyze issues, trends, and potentials of the tourism industry.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Export+Ban+Drives+Cuba+To+Non-US+Analytics+Software+To+Boost+Tourism%3A+http%3A%2F%2Fbit.ly%2F1QpQaAR"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F15%2F05%2F07%2F1241247%2Fexport-ban-drives-cuba-to-non-us-analytics-software-to-boost-tourism%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://politics.slashdot.org/story/15/05/07/1241247/export-ban-drives-cuba-to-non-us-analytics-software-to-boost-tourism?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://politics.slashdot.org/story/15/05/07/1241247/export-ban-drives-cuba-to-non-us-analytics-software-to-boost-tourism?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7381925&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ju9Wh8cVi70" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-07T13:37:00+00:00</dc:date>
+<dc:subject>social</dc:subject>
+<slash:department>keepin'-it-hostile</slash:department>
+<slash:section>politics</slash:section>
+<slash:comments>73</slash:comments>
+<slash:hit_parade>73,73,51,41,14,10,2</slash:hit_parade>
+<feedburner:origLink>http://politics.slashdot.org/story/15/05/07/1241247/export-ban-drives-cuba-to-non-us-analytics-software-to-boost-tourism?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
